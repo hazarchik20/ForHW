@@ -1,0 +1,58 @@
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\FirstHW_HZR.exe.config
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\FirstHW_HZR.exe
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\FirstHW_HZR.pdb
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Buffers.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.IO.Pipelines.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Memory.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Json.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.ValueTuple.dll
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Buffers.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.IO.Pipelines.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Memory.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Json.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.ValueTuple.xml
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_.92554573.Up2Date
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.exe
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.pdb
+C:\Users\1\source\repos\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.exe.config
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\FirstHW_HZR.exe.config
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\FirstHW_HZR.exe
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\FirstHW_HZR.pdb
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Buffers.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.IO.Pipelines.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Memory.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Json.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.ValueTuple.dll
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Buffers.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.IO.Pipelines.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Memory.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Text.Json.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\bin\Debug\System.ValueTuple.xml
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.exe.config
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_.92554573.Up2Date
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.exe
+C:\Users\1\OneDrive\Робочий стіл\HW_HZR\FirstHW_HZR\FirstHW_HZR\obj\Debug\FirstHW_HZR.pdb

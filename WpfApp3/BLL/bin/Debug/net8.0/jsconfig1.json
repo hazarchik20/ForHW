@@ -1,0 +1,12 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "OPENWEATHER_API_KEY": "314e0789386e080d1b44cc993432172d",
+  "CITY_API_KEY": "c/fWX1esU9m+89WF4cZ9jg==D6qpGzfM1xQyR8Kc"
+}

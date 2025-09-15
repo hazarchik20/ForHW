@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\bll\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\bll\\responses\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\bll\\responses\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\bll\\cityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\cityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\bll\\responses\\cityname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\responses\\cityname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A98839BC-FA12-4B32-8EAD-2E7034D28C6D}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\wpfapp3\\bll\\icityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A9D7F2-C2DF-456A-979E-B79AF7453272}|BLL\\BLL.csproj|solutionrelative:bll\\icityapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityApiService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\CityApiService.cs",
+              "RelativeDocumentMoniker": "BLL\\CityApiService.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\CityApiService.cs",
+              "RelativeToolTip": "BLL\\CityApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:23:26.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherApiService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\WeatherApiService.cs",
+              "RelativeDocumentMoniker": "BLL\\WeatherApiService.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\WeatherApiService.cs",
+              "RelativeToolTip": "BLL\\WeatherApiService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T15:01:18.481Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\Responses\\WeatherData.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\Responses\\WeatherData.cs",
+              "RelativeToolTip": "BLL\\Responses\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:39:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityName.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\Responses\\CityName.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\CityName.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\Responses\\CityName.cs",
+              "RelativeToolTip": "BLL\\Responses\\CityName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:37:47.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\Responses\\City.cs",
+              "RelativeDocumentMoniker": "BLL\\Responses\\City.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\Responses\\City.cs",
+              "RelativeToolTip": "BLL\\Responses\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T18:18:10.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICityApiService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\ICityApiService.cs",
+              "RelativeDocumentMoniker": "BLL\\ICityApiService.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\BLL\\ICityApiService.cs",
+              "RelativeToolTip": "BLL\\ICityApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:21:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-11T10:25:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwFkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:25:47.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
