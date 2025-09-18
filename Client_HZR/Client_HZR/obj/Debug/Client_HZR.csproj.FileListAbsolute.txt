@@ -1,0 +1,8 @@
+C:\Users\1\source\repos\Client_HZR\Client_HZR\obj\Debug\Client_HZR.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Client_HZR\Client_HZR\obj\Debug\Client_HZR.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Client_HZR\Client_HZR\bin\Debug\Client_HZR.exe.config
+C:\Users\1\source\repos\Client_HZR\Client_HZR\bin\Debug\Client_HZR.exe
+C:\Users\1\source\repos\Client_HZR\Client_HZR\bin\Debug\Client_HZR.pdb
+C:\Users\1\source\repos\Client_HZR\Client_HZR\obj\Debug\Client_HZR.exe
+C:\Users\1\source\repos\Client_HZR\Client_HZR\obj\Debug\Client_HZR.pdb
+C:\Users\1\source\repos\Client_HZR\Client_HZR\obj\Debug\Client_HZR.exe.config
