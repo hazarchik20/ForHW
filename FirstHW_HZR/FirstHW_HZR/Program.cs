@@ -16,10 +16,14 @@ namespace FirstHW_HZR
         static async Task Main(string[] args)
         {
             Random rnd = new Random();
+
             var httpClient = new HttpClient();
-            string uri = "https://pokeapi.co/api/v2/";
-            httpClient.BaseAddress = new Uri(uri);
-            var response = await httpClient.GetAsync("pokemon/"+rnd.Next(1, 20)+"/");
+
+            string uri = "https://pro-api.coinmarketcap.com";
+            httpClient.BaseAddress = new Uri(uri); 
+            httpClient.DefaultRequestHeaders.Add("X-CMC_PRO_API_KEY", "bda10759-8e47-437c-8e58-3c62fb888a9e");
+            httpClient.DefaultRequestHeaders.Add("Accepts", "application/json");
+            var response = await httpClient.GetAsync("/v1/cryptocurrency/map");
             var content = await response.Content.ReadAsStringAsync();
             var pokemon = JsonSerializer.Deserialize<Pokemon>(content);
             Console.WriteLine($"id - {pokemon.id}\nname - {pokemon.name}\nheight - {pokemon.height}\nspecies: \n\tname - {pokemon.species.name}\nstats:");
@@ -36,7 +40,7 @@ namespace FirstHW_HZR
                 string str = pokemon.held_items[0].item.url.Replace(uri, "");
                 response = await httpClient.GetAsync(str);
                 content = await response.Content.ReadAsStringAsync();
-                var ItemAtridute = System.Text.Json.JsonSerializer.Deserialize<ItemAtridute>(content);
+                var ItemAtridute = JsonSerializer.Deserialize<ItemAtridute>(content);
                 Console.WriteLine($"Id - {ItemAtridute.id}\nName - {ItemAtridute.name}\nCost - {ItemAtridute.cost}");
             }
             Console.ReadLine();

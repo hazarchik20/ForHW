@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\School_HZR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\dll\\repository\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|solutionrelative:dll\\repository\\classroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\dll\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|solutionrelative:dll\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\dll\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|solutionrelative:dll\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\bll\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|solutionrelative:bll\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C7850A-72B6-49F3-985B-7C6B81D31209}|School_HZR\\School_HZR.csproj|c:\\users\\1\\source\\repos\\school_hzr\\school_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C7850A-72B6-49F3-985B-7C6B81D31209}|School_HZR\\School_HZR.csproj|solutionrelative:school_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\dll\\schoolecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|solutionrelative:dll\\schoolecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\dll\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|solutionrelative:dll\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\bll\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|solutionrelative:bll\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\bll\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|solutionrelative:bll\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\dll\\migrations\\schoolecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|solutionrelative:dll\\migrations\\schoolecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\dll\\migrations\\20250928110801_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601CAA1C-C745-431E-9DA0-4A704E145613}|DLL\\DLL.csproj|solutionrelative:dll\\migrations\\20250928110801_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C7850A-72B6-49F3-985B-7C6B81D31209}|School_HZR\\School_HZR.csproj|c:\\users\\1\\source\\repos\\school_hzr\\school_hzr\\school_hzr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89C7850A-72B6-49F3-985B-7C6B81D31209}|School_HZR\\School_HZR.csproj|solutionrelative:school_hzr\\school_hzr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\School_HZR\\Program.cs",
+              "RelativeDocumentMoniker": "School_HZR\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\School_HZR\\Program.cs*",
+              "RelativeToolTip": "School_HZR\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:58:48.039Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DLL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:42:45.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Repository\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "DLL\\Repository\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:29:03.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "DLL\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:29:02.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchooleContext.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\SchooleContext.cs",
+              "RelativeDocumentMoniker": "DLL\\SchooleContext.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\SchooleContext.cs",
+              "RelativeToolTip": "DLL\\SchooleContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:07:46.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Student.cs",
+              "RelativeToolTip": "BLL\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:09:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Repository\\ClassRoomRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Repository\\ClassRoomRepository.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Repository\\ClassRoomRepository.cs",
+              "RelativeToolTip": "DLL\\Repository\\ClassRoomRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:41:44.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\ClassRoom.cs",
+              "RelativeToolTip": "BLL\\Models\\ClassRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:09:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250928110801_Init.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Migrations\\20250928110801_Init.cs",
+              "RelativeDocumentMoniker": "DLL\\Migrations\\20250928110801_Init.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Migrations\\20250928110801_Init.cs",
+              "RelativeToolTip": "DLL\\Migrations\\20250928110801_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:08:02.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchooleContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Migrations\\SchooleContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DLL\\Migrations\\SchooleContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\DLL\\Migrations\\SchooleContextModelSnapshot.cs",
+              "RelativeToolTip": "DLL\\Migrations\\SchooleContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwGkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:08:15.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Teacher.cs",
+              "RelativeToolTip": "BLL\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:09:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "School_HZR.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\School_HZR\\School_HZR.csproj",
+              "RelativeDocumentMoniker": "School_HZR\\School_HZR.csproj",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\School_HZR\\School_HZR.csproj",
+              "RelativeToolTip": "School_HZR\\School_HZR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T11:04:51.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

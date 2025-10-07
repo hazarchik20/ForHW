@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\Car_HZR\\",
+  "WorkspaceRootPath": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22F269C9-32A8-4DFD-887D-69CF15F9E86A}|Car_HZR\\Car_HZR.csproj|c:\\users\\1\\source\\repos\\car_hzr\\car_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22F269C9-32A8-4DFD-887D-69CF15F9E86A}|Car_HZR\\Car_HZR.csproj|solutionrelative:car_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\car_hzr\\dll\\cardatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|c:\\users\\1\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\hw_hzr\\car_hzr\\dll\\cardatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|solutionrelative:dll\\cardatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\car_hzr\\bll\\interfaces\\icarservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\icarservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\car_hzr\\dll\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|solutionrelative:dll\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|c:\\users\\1\\source\\repos\\car_hzr\\dll\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|c:\\users\\1\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\hw_hzr\\car_hzr\\dll\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|solutionrelative:dll\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\car_hzr\\bll\\services\\carservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|solutionrelative:bll\\services\\carservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22F269C9-32A8-4DFD-887D-69CF15F9E86A}|Car_HZR\\Car_HZR.csproj|c:\\users\\1\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\hw_hzr\\car_hzr\\car_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F269C9-32A8-4DFD-887D-69CF15F9E86A}|Car_HZR\\Car_HZR.csproj|solutionrelative:car_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\car_hzr\\bll\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|c:\\users\\1\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\hw_hzr\\car_hzr\\dll\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91FF861-C210-4B17-9783-23AFC83DFCF8}|DLL\\DLL.csproj|solutionrelative:dll\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|c:\\users\\1\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\hw_hzr\\car_hzr\\bll\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|solutionrelative:bll\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|c:\\users\\1\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\hw_hzr\\car_hzr\\bll\\services\\carservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582B987E-9D64-47F6-96DB-AA8EE3CA12ED}|BLL\\BLL.csproj|solutionrelative:bll\\services\\carservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,99 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Car_HZR\\Car_HZR\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\Car_HZR\\Program.cs",
               "RelativeDocumentMoniker": "Car_HZR\\Program.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Car_HZR\\Car_HZR\\Program.cs*",
-              "RelativeToolTip": "Car_HZR\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\Car_HZR\\Program.cs",
+              "RelativeToolTip": "Car_HZR\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T06:43:10.841Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CarServices.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Car_HZR\\BLL\\Services\\CarServices.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\CarServices.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Car_HZR\\BLL\\Services\\CarServices.cs",
-              "RelativeToolTip": "BLL\\Services\\CarServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T10:34:47.803Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "CarServices.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\BLL\\Services\\CarServices.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CarServices.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\BLL\\Services\\CarServices.cs",
+              "RelativeToolTip": "BLL\\Services\\CarServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:34:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Car_HZR\\DLL\\Repository\\CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\DLL\\Repository\\CarRepository.cs",
               "RelativeDocumentMoniker": "DLL\\Repository\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Car_HZR\\DLL\\Repository\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\DLL\\Repository\\CarRepository.cs",
               "RelativeToolTip": "DLL\\Repository\\CarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T07:01:48.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Car_HZR\\DLL\\Interfaces\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "DLL\\Interfaces\\ICarRepository.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Car_HZR\\DLL\\Interfaces\\ICarRepository.cs",
-              "RelativeToolTip": "DLL\\Interfaces\\ICarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:58:26.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICarServices.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Car_HZR\\BLL\\Interfaces\\ICarServices.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\ICarServices.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Car_HZR\\BLL\\Interfaces\\ICarServices.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\ICarServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:57:04.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CarDataContext.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Car_HZR\\DLL\\CarDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\DLL\\CarDataContext.cs",
               "RelativeDocumentMoniker": "DLL\\CarDataContext.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Car_HZR\\DLL\\CarDataContext.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\DLL\\CarDataContext.cs",
               "RelativeToolTip": "DLL\\CarDataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T06:54:40.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Car_HZR\\BLL\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "BLL\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Car_HZR\\BLL\\Models\\Car.cs",
-              "RelativeToolTip": "BLL\\Models\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\DLL\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "DLL\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\DLL\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "DLL\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:57:24.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:58:26.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\BLL\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Car_HZR\\BLL\\Models\\Car.cs",
+              "RelativeToolTip": "BLL\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:57:24.598Z"
             }
           ]
         }

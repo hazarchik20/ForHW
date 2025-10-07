@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 697,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "FirstHW_HZR\\Program.cs",
               "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\FirstHW_HZR\\FirstHW_HZR\\Program.cs",
               "RelativeToolTip": "FirstHW_HZR\\Program.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwCkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowBMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T12:10:15.373Z",
               "EditorCaption": ""

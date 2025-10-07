@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\Client_HZR\\",
+  "WorkspaceRootPath": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|c:\\users\\1\\source\\repos\\client_hzr\\client_hzr\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|c:\\users\\1\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\hw_hzr\\client_hzr\\client_hzr\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|solutionrelative:client_hzr\\services\\clientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|c:\\users\\1\\source\\repos\\client_hzr\\client_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\client_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|solutionrelative:client_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|c:\\users\\1\\source\\repos\\client_hzr\\client_hzr\\interfaces\\iclientinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\client_hzr\\interfaces\\iclientinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|solutionrelative:client_hzr\\interfaces\\iclientinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|c:\\users\\1\\source\\repos\\client_hzr\\client_hzr\\models\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\client_hzr\\models\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|solutionrelative:client_hzr\\models\\addres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|c:\\users\\1\\source\\repos\\client_hzr\\client_hzr\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\client_hzr\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920E078F-8332-4964-BB1E-81E21A39D042}|Client_HZR\\Client_HZR.csproj|solutionrelative:client_hzr\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,72 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 697,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Interfaces\\IClientInterfaces.cs",
+              "RelativeDocumentMoniker": "Client_HZR\\Interfaces\\IClientInterfaces.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Interfaces\\IClientInterfaces.cs",
+              "RelativeToolTip": "Client_HZR\\Interfaces\\IClientInterfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:54:59.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Program.cs",
+              "RelativeDocumentMoniker": "Client_HZR\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Program.cs",
+              "RelativeToolTip": "Client_HZR\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T16:53:20.884Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientServices.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Services\\ClientServices.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Services\\ClientServices.cs",
               "RelativeDocumentMoniker": "Client_HZR\\Services\\ClientServices.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Services\\ClientServices.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Services\\ClientServices.cs",
               "RelativeToolTip": "Client_HZR\\Services\\ClientServices.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAlwEoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T16:55:54.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IClientInterfaces.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Interfaces\\IClientInterfaces.cs",
-              "RelativeDocumentMoniker": "Client_HZR\\Interfaces\\IClientInterfaces.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Interfaces\\IClientInterfaces.cs",
-              "RelativeToolTip": "Client_HZR\\Interfaces\\IClientInterfaces.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:54:59.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Program.cs",
-              "RelativeDocumentMoniker": "Client_HZR\\Program.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Program.cs",
-              "RelativeToolTip": "Client_HZR\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:53:20.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Addres.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Models\\Addres.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Models\\Addres.cs",
               "RelativeDocumentMoniker": "Client_HZR\\Models\\Addres.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Models\\Addres.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Models\\Addres.cs",
               "RelativeToolTip": "Client_HZR\\Models\\Addres.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:55:40.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T16:55:40.562Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Models\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Models\\Client.cs",
               "RelativeDocumentMoniker": "Client_HZR\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\1\\source\\repos\\Client_HZR\\Client_HZR\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\1\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\HW_HZR\\Client_HZR\\Client_HZR\\Models\\Client.cs",
               "RelativeToolTip": "Client_HZR\\Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:55:15.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T16:55:15.136Z"
             }
           ]
         }

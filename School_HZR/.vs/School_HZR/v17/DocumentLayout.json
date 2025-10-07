@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\School_HZR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C7850A-72B6-49F3-985B-7C6B81D31209}|School_HZR\\School_HZR.csproj|c:\\users\\1\\source\\repos\\school_hzr\\school_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C7850A-72B6-49F3-985B-7C6B81D31209}|School_HZR\\School_HZR.csproj|solutionrelative:school_hzr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\bll\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|solutionrelative:bll\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\bll\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|solutionrelative:bll\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|c:\\users\\1\\source\\repos\\school_hzr\\bll\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC23D0C3-F2B8-46E7-8759-2BC18F178316}|BLL\\BLL.csproj|solutionrelative:bll\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\School_HZR\\Program.cs",
+              "RelativeDocumentMoniker": "School_HZR\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\School_HZR\\Program.cs",
+              "RelativeToolTip": "School_HZR\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAALMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T09:58:48.039Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Student.cs",
+              "RelativeToolTip": "BLL\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:09:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\ClassRoom.cs",
+              "RelativeToolTip": "BLL\\Models\\ClassRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:09:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\School_HZR\\BLL\\Models\\Teacher.cs",
+              "RelativeToolTip": "BLL\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:09:49.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
